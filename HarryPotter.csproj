@@ -122,5 +122,6 @@
   <ItemGroup>
     <Content Include="SqlCreate.sql" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

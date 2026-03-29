@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotter", "HarryPotter.csproj", "{546E5225-F514-43F3-8D8A-22A4233C0A65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HP_GUI", "..\HP_GUI\HP_GUI.csproj", "{2D4B4AF6-D95E-4AAA-9EF1-9F92757997D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPGUI", "..\HPGUI\HPGUI.csproj", "{8D373E3F-904B-457E-99F6-B6C6DF8CC497}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{546E5225-F514-43F3-8D8A-22A4233C0A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{546E5225-F514-43F3-8D8A-22A4233C0A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{546E5225-F514-43F3-8D8A-22A4233C0A65}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2D4B4AF6-D95E-4AAA-9EF1-9F92757997D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D4B4AF6-D95E-4AAA-9EF1-9F92757997D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D4B4AF6-D95E-4AAA-9EF1-9F92757997D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D4B4AF6-D95E-4AAA-9EF1-9F92757997D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D373E3F-904B-457E-99F6-B6C6DF8CC497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D373E3F-904B-457E-99F6-B6C6DF8CC497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D373E3F-904B-457E-99F6-B6C6DF8CC497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D373E3F-904B-457E-99F6-B6C6DF8CC497}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
